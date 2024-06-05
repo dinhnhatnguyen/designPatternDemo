@@ -41,7 +41,7 @@ public class main {
 
         SinhVien sv = new SinhVien();
         sv.setMaSinhVien("hiiii");
-        sv.setHoTen("Con Cac tao ne haha");
+        sv.setHoTen("hihhihihihihiih");
         sv.setGioiTinhNam(true);
         sv.setNgaySinh(new Date(2003,18,8));
 
