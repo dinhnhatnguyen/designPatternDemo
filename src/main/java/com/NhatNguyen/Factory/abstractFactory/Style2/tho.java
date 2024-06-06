@@ -5,6 +5,6 @@ import com.NhatNguyen.Factory.abstractFactory.dongVatAnCo;
 public class tho implements dongVatAnCo {
     @Override
     public void chay() {
-        System.out.println("thỏ chạy tụt lồn");
+        System.out.println("thỏ chạy ");
     }
 }
